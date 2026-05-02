@@ -29,5 +29,5 @@ make
 
 ## Author
 
-Landry Kayita-Nkore  
-B.Sc. Software Engineering — UQAM  
+Landry Kayita-Nkore 
+B.Sc. Software Engineering — UQAM 
